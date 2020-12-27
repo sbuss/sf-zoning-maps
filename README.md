@@ -26,4 +26,5 @@ I did manually georeference the 1948 San Francisco zoning maps:
 
 ![1948 San Francisco zoning map](static/1948-small.png)
 
-You can find the [full-size georeferenced TIFF here](https://drive.google.com/file/d/1vSt8paklIS0jysDDiCCsai9hAQxlpYus/view?usp=sharing).
+You can find the [full-size georeferenced TIFF here](https://drive.google.com/file/d/1vSt8paklIS0jysDDiCCsai9hAQxlpYus/view?usp=sharing)
+and a [smaller png here](https://drive.google.com/file/d/12yY5l59I9x49_P1x2K-99Umi140Yw_iv/view?usp=sharing).
